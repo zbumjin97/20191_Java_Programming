@@ -2,10 +2,9 @@
 2019학년도 1학기 자바프로그래밍
 
 ### Class_1 (2019.04.11)
------
-####### •Static variable & Static Method
-####### •Object Deconstruction through Garbage Collector
-####### •Call-by-value and Inner Class
+###### •Static variable & Static Method
+###### •Object Deconstruction through Garbage Collector
+###### •Call-by-value and Inner Class
 
 
 ### Class_2 (2019.04.18)
