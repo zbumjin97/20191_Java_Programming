@@ -8,33 +8,33 @@
 
 
 ### Class_2 (2019.04.18)
-•Inheritance
-•"Protected" access modifier
-•Constructor and Abstract Class, Polymorphismm, Interface
-•Method Override
+* Inheritance
+* "Protected" access modifier
+* Constructor and Abstract Class, Polymorphismm, Interface
+* Method Override
 
 ### Class_3 (2019.05.02)
-•Package Declaration
-•Java Library Package
-•String Class, Math Class, etc.
-•Exception Handling
+* Package Declaration
+* Java Library Package
+* String Class, Math Class, etc.
+* Exception Handling
 
 ### Class_4 (2019. 05.09)
-•Graphic User Interface
-•BorderLayout, FlowLayout, GridLayout, etc.
-•Label, TextField, and Button
+* Graphic User Interface
+* BorderLayout, FlowLayout, GridLayout, etc.
+* Label, TextField, and Button
 
 ### Class_5 (2019.05.16)
-•Event-driven Programming
-•Lambda Expression
-•Mouse & MouseMotion Event Listener
+* Event-driven Programming
+* Lambda Expression
+* Mouse & MouseMotion Event Listener
 
 ### Class_6 (2019.05.23)
-•File Input/Output
-•Byte Stream & Character Stream
-•File Object Serialization
+* File Input/Output
+* Byte Stream & Character Stream
+* File Object Serialization
 
 ### Class_7 (2019.05.30)
-•Inheritance of Thread Class
-•Implementation of Runnable Interface
-•Synchronization
+* Inheritance of Thread Class
+* Implementation of Runnable Interface
+* Synchronization
