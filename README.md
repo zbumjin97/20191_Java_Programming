@@ -26,7 +26,7 @@
 
 
 ---
-### Class_4 (2019. 05.09)
+### Class_4 (2019.05.09)
 * Graphic User Interface
 * BorderLayout, FlowLayout, GridLayout, etc.
 * Label, TextField, and Button
